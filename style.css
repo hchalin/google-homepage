@@ -1,0 +1,23 @@
+
+.container {
+   height: 100vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+}
+
+.nav-bar {
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   list-style-type: none;
+   margin: 0;
+   padding: 6px;
+   background-color: rgb(202, 202, 202);
+
+}
+
+
+
+
